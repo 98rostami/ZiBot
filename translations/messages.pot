@@ -39,7 +39,7 @@ msgstr ""
 
 #: Command/User/HelpCommand.php:58
 msgid "Hi!"
-msgstr ""
+msgstr "Hello!"
 
 #: Command/User/HelpCommand.php:59 Command/User/HelpCommand.php:70
 #: Entity/Game.php:571 Entity/Game.php:800 Entity/Game.php:878
