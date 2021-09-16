@@ -37,21 +37,21 @@ class Checkers extends Game
      *
      * @var string
      */
-    protected static $title = 'Checkers';
+    protected static $title = 'چکرز';
 
     /**
      * Game name
      *
      * @var string
      */
-    protected static $title_extra = '(no flying kings, men cannot capture backwards)';
+    protected static $title_extra = '(بدون پرواز شاه و بدون حرکت به عقب سرباز)';
 
     /**
      * Game description
      *
      * @var string
      */
-    protected static $description = 'Checkers is game in which the goal is to capture the other player\'s checkers or make them impossible to move.';
+    protected static $description = 'هدف بازی این است که مهره بازیکن حریف را بگیرید یا حرکت آنها را غیرممکن کنید.';
 
     /**
      * Game thumbnail image
