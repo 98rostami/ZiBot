@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-12 14:55+0100\n"
+"PO-Revision-Date: 2021-09-16 19:10+0430\n"
+"X-Poedit-Basepath: ../src\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: fa\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Command/Admin/CleansessionsCommand.php:149
+msgid "Create New Session"
+msgstr "ساخت نشست جدید"
+
+#: Command/Admin/CleansessionsCommand.php:156
+msgid "This game session has expired."
+msgstr "این نشست منقضی شده است."
+
+#: Command/Admin/CleansessionsCommand.php:213
+#: Command/System/InlinequeryCommand.php:124 Entity/Game.php:818
+msgid "Create"
+msgstr "ساختن"
+
+#: Command/System/CallbackqueryCommand.php:73
+msgid "Bad request!"
+msgstr "درخواست اشتباه!"
+
+#: Command/System/InlinequeryCommand.php:49 Entity/Game.php:647
+#: Entity/Game.php:721
+msgid "This game session is empty."
+msgstr "این بازی خالی ست."
+
+#: Command/User/HelpCommand.php:58
+msgid "Hi!"
+msgstr "سلام!"
+
+#: Command/User/HelpCommand.php:59 Command/User/HelpCommand.php:70
+#: Entity/Game.php:571 Entity/Game.php:800 Entity/Game.php:878
+msgid "Play"
+msgstr "بازی کردن"
+
+#: Command/User/HelpCommand.php:59
+msgid "To begin, start a message with {USAGE} in any of your chats or click the {BUTTON} button and then select a chat to play in."
+msgstr "برای شروع ، در هر یک از چت های خود پیامی را با {USAGE} شروع کنید یا روی دکمه {BUTTON} کلیک کنید و سپس گروهی را برای بازی انتخاب کنید."
+
+#: Entity/Game.php:232
+msgid "This game session has crashed."
+msgstr "این بازی خراب شده است."
+
+#: Entity/Game.php:468
+msgid "This game is already created!"
+msgstr "این بازی هم اکنون ساخته شده است!"
+
+#: Entity/Game.php:481 Entity/Game.php:558 Entity/Game.php:636
+#: Entity/Game.php:661 Entity/Game.php:698 Entity/Game.php:803
+#: Entity/Game/Russianroulette.php:166
+msgid "{PLAYER_HOST} is waiting for opponent to join..."
+msgstr "{PLAYER_HOST} منتظر پیوستن حریف است ..."
+
+#: Entity/Game.php:481 Entity/Game.php:558 Entity/Game.php:636
+#: Entity/Game.php:661 Entity/Game.php:698 Entity/Game.php:803
+#: Entity/Game.php:856 Entity/Game/Russianroulette.php:166
+#: Entity/Game/Russianroulette.php:318
+msgid "Join"
+msgstr "پیوستن"
+
+#: Entity/Game.php:481 Entity/Game.php:558 Entity/Game.php:636
+#: Entity/Game.php:661 Entity/Game.php:698 Entity/Game.php:803
+#: Entity/Game/Russianroulette.php:166
+msgid "Press {BUTTON} button to join."
+msgstr "برای پیوستن دکمه {BUTTON} را بزنید."
+
+#: Entity/Game.php:571 Entity/Game.php:800
+msgid "{PLAYER_GUEST} joined..."
+msgstr "{PLAYER_GUEST} به بازی ملحق شد..."
+
+#: Entity/Game.php:571 Entity/Game.php:800
+msgid "Waiting for {PLAYER} to start..."
+msgstr "در انتظار {PLAYER} برای شروع..."
+
+#: Entity/Game.php:571 Entity/Game.php:800
+msgid "Press {BUTTON} button to start."
+msgstr "برای شروع دکمه {BUTTON} را بزنید."
+
+#: Entity/Game.php:577
+msgid "You cannot play with yourself!"
+msgstr "شما نمی توانید با خودتان بازی کنید!"
+
+#: Entity/Game.php:580
+msgid "This game is full!"
+msgstr "این بازی پر است!"
+
+#: Entity/Game.php:623 Entity/Game.php:725 Entity/Game.php:756
+#: Entity/Game/Checkers.php:111 Entity/Game/Checkers.php:372
+#: Entity/Game/Checkers.php:421 Entity/Game/Connectfour.php:87
+#: Entity/Game/Poolcheckers.php:80 Entity/Game/Poolcheckers.php:133
+#: Entity/Game/Rockpaperscissors.php:75 Entity/Game/Russianroulette.php:75
+#: Entity/Game/Tictactoe.php:84
+msgid "You're not in this game!"
+msgstr "شما در این بازی نیستید!"
+
+#: Entity/Game.php:636 Entity/Game.php:661
+msgid "{PLAYER} quit..."
+msgstr "{PLAYER} خارج شد..."
+
+#: Entity/Game.php:636
+msgid "{PLAYER_HOST} is now the host."
+msgstr "{PLAYER_HOST} اکنون میزبان است."
+
+#: Entity/Game.php:684 Entity/Game.php:729 Entity/Game.php:774
+msgid "You're not the host!"
+msgstr "شما میزبان نیستید!"
+
+#: Entity/Game.php:688
+msgid "There is no player to kick!"
+msgstr "بازیکنی برای اخراج وجود ندارد!"
+
+#: Entity/Game.php:698
+msgid "{PLAYER_GUEST} was kicked..."
+msgstr "{PLAYER_GUEST} اخراج شد..."
+
+#: Entity/Game.php:850 Entity/Game.php:898 Entity/Game.php:974
+#: Entity/Game/Checkers.php:278 Entity/Game/Poolcheckers.php:820
+#: Entity/Game/Rockpaperscissors.php:298
+#: Entity/Game/Rockpaperscissorslizardspock.php:243
+#: Entity/Game/Russianroulette.php:297 Entity/Game/Russianroulette.php:312
+msgid "Quit"
+msgstr "خروج"
+
+#: Entity/Game.php:904 Entity/Game.php:980 Entity/Game/Checkers.php:284
+#: Entity/Game/Poolcheckers.php:826 Entity/Game/Rockpaperscissors.php:304
+#: Entity/Game/Rockpaperscissorslizardspock.php:249
+#: Entity/Game/Russianroulette.php:303
+msgid "Kick"
+msgstr "اخراج"
+
+#: Entity/Game.php:964 Entity/Game/Checkers.php:248
+#: Entity/Game/Poolcheckers.php:790 Entity/Game/Rockpaperscissors.php:277
+#: Entity/Game/Rockpaperscissorslizardspock.php:222
+msgid "Play again!"
+msgstr "بازی کردن دوباره!"
+
+#: Entity/Game.php:1048
+msgid "Game session not found or expired."
+msgstr "نشست پیدا نشد یا منقضی شده است."
+
+#: Entity/Game/Checkers.php:117 Entity/Game/Checkers.php:378
+#: Entity/Game/Checkers.php:464 Entity/Game/Connectfour.php:121
+#: Entity/Game/Poolcheckers.php:86 Entity/Game/Poolcheckers.php:176
+#: Entity/Game/Rockpaperscissors.php:103 Entity/Game/Russianroulette.php:109
+#: Entity/Game/Tictactoe.php:119
+msgid "This game has ended!"
+msgstr "این بازی تمام شده است!"
+
+#: Entity/Game/Checkers.php:129 Entity/Game/Checkers.php:154
+#: Entity/Game/Checkers.php:590 Entity/Game/Checkers.php:592
+#: Entity/Game/Connectfour.php:165 Entity/Game/Poolcheckers.php:304
+#: Entity/Game/Poolcheckers.php:306 Entity/Game/Russianroulette.php:137
+#: Entity/Game/Russianroulette.php:150 Entity/Game/Tictactoe.php:153
+msgid "{PLAYER} won!"
+msgstr "{PLAYER} برد!"
+
+#: Entity/Game/Checkers.php:130 Entity/Game/Checkers.php:155
+msgid "{PLAYER} surrendered!"
+msgstr "{PLAYER} تسلیم شد!"
+
+#: Entity/Game/Checkers.php:146 Entity/Game/Checkers.php:171
+msgid "Press the button again to surrender!"
+msgstr "دکمه را دوباره فشار دهید تا تسلیم شوید!"
+
+#: Entity/Game/Checkers.php:258 Entity/Game/Poolcheckers.php:800
+msgid "Surrender"
+msgstr "تسلیم"
+
+#: Entity/Game/Checkers.php:267 Entity/Game/Poolcheckers.php:809
+msgid "Vote to draw"
+msgstr "رای به قرعه کشی"
+
+#: Entity/Game/Checkers.php:406 Entity/Game/Poolcheckers.php:118
+msgid "You already voted!"
+msgstr "شما قبلاً رای داده اید!"
+
+#: Entity/Game/Checkers.php:486 Entity/Game/Checkers.php:509
+#: Entity/Game/Checkers.php:557 Entity/Game/Poolcheckers.php:197
+#: Entity/Game/Poolcheckers.php:220 Entity/Game/Poolcheckers.php:271
+msgid "You must make a jump when possible!"
+msgstr "شما باید زمانی جهش کنید که ممکن باشد!"
+
+#: Entity/Game/Checkers.php:561 Entity/Game/Checkers.php:571
+#: Entity/Game/Connectfour.php:149 Entity/Game/Connectfour.php:154
+#: Entity/Game/Poolcheckers.php:275 Entity/Game/Poolcheckers.php:285
+#: Entity/Game/Rockpaperscissors.php:122 Entity/Game/Russianroulette.php:127
+#: Entity/Game/Tictactoe.php:127 Entity/Game/Tictactoe.php:143
+msgid "Invalid move!"
+msgstr "حرکت غیرمجاز!"
+
+#: Entity/Game/Checkers.php:569 Entity/Game/Poolcheckers.php:283
+msgid "Invalid selection!"
+msgstr "انتخاب غیرمجاز!"
+
+#: Entity/Game/Checkers.php:575 Entity/Game/Connectfour.php:125
+#: Entity/Game/Poolcheckers.php:289 Entity/Game/Russianroulette.php:113
+#: Entity/Game/Tictactoe.php:123
+msgid "It's not your turn!"
+msgstr "نوبت شما نیست!"
+
+#: Entity/Game/Checkers.php:594 Entity/Game/Connectfour.php:167
+#: Entity/Game/Poolcheckers.php:308 Entity/Game/Tictactoe.php:155
+msgid "Game ended with a draw!"
+msgstr "بازی مساوی شد!"
+
+#: Entity/Game/Checkers.php:605 Entity/Game/Checkers.php:607
+#: Entity/Game/Poolcheckers.php:319 Entity/Game/Poolcheckers.php:321
+msgid "{PLAYER} voted to draw!"
+msgstr "{PLAYER} به تساوی رای داد!"
+
+#: Entity/Game/Checkers.php:613 Entity/Game/Poolcheckers.php:327
+msgid "(Select the piece you want to move)"
+msgstr "(قطعه ای را که می خواهید جابجا کنید انتخاب کنید)"
+
+#: Entity/Game/Checkers.php:615 Entity/Game/Poolcheckers.php:329
+msgid "(Selected: {COORDINATES})"
+msgstr "({COORDINATES} انتخاب شد:)"
+
+#: Entity/Game/Checkers.php:618 Entity/Game/Poolcheckers.php:332
+msgid "(Make your move or select different piece)"
+msgstr "(حرکت خود را انجام دهید یا قطعه متفاوتی انتخاب کنید)"
+
+#: Entity/Game/Checkers.php:620 Entity/Game/Poolcheckers.php:334
+msgid "(Your move must continue)"
+msgstr "(حرکت شما باید ادامه یابد)"
+
+#: Entity/Game/Rockpaperscissors.php:140 Entity/Game/Rockpaperscissors.php:144
+msgid "{PLAYER} won this round!"
+msgstr "{PLAYER} برنده این دور شد!"
+
+#: Entity/Game/Rockpaperscissors.php:146
+msgid "This round ended with a draw!"
+msgstr "این دور مساوی شد!"
+
+#: Entity/Game/Rockpaperscissors.php:155 Entity/Game/Rockpaperscissors.php:159
+msgid "{PLAYER} won the game!"
+msgstr "{PLAYER} بازی را برد!"
+
+#: Entity/Game/Rockpaperscissors.php:163
+msgid "Round {ROUND} - make your picks!"
+msgstr "دور {ROUND} - انتخاب های خود را انجام دهید!"
+
+#: Entity/Game/Rockpaperscissors.php:166 Entity/Game/Rockpaperscissors.php:168
+msgid "Waiting for:"
+msgstr "در انتظار برای:"
+
+#: Entity/Game/Russianroulette.php:136 Entity/Game/Russianroulette.php:149
+msgid "{PLAYER} died! (kicked)"
+msgstr "{PLAYER} مرد! (اخراج شد)"
+
+#: Entity/Game/Russianroulette.php:170
+msgid "{PLAYER} survived!"
+msgstr "{PLAYER} تسلیم شد!"
+
+#: GameCore.php:127
+msgid "Database error!"
+msgstr "خطای دیتابیس!"
+
+#: GameCore.php:127 GameCore.php:254 GameCore.php:278 GameCore.php:302
+#: GameCore.php:326
+msgid "Try again in a few seconds."
+msgstr "چند ثانیه بعد تلاش کنید."
+
+#: GameCore.php:254
+msgid "Process for this game is busy!"
+msgstr "روند این بازی شلوغ است!"
+
+#: GameCore.php:278
+msgid "Telegram API error!"
+msgstr "خطای API تلگرام!"
+
+#: GameCore.php:302
+msgid "Bot error!"
+msgstr "خطای ربات!"
+
+#: GameCore.php:326
+msgid "Unhandled error!"
+msgstr "خطای کنترل نشده!"
