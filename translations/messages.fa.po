@@ -76,7 +76,7 @@ msgstr "پیوستن"
 #: Entity/Game.php:661 Entity/Game.php:698 Entity/Game.php:803
 #: Entity/Game/Russianroulette.php:166
 msgid "Press {BUTTON} button to join."
-msgstr "برای پیوستن دکمه {BUTTON} را بزنید."
+msgstr "برای بازی کردن دکمه {BUTTON} را بزنید."
 
 #: Entity/Game.php:571 Entity/Game.php:800
 msgid "{PLAYER_GUEST} joined..."
