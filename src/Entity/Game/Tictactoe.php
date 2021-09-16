@@ -35,14 +35,14 @@ class Tictactoe extends Game
      *
      * @var string
      */
-    protected static $title = 'Tic-Tac-Toe';
+    protected static $title = 'دوز سه تایی';
 
     /**
      * Game description
      *
      * @var string
      */
-    protected static $description = 'Tic-tac-toe is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid.';
+    protected static $description = 'یک دنباله سه تایی به صورت افقی ، عمودی یا مورب در خانه های دلخواه بسازید تا برنده شوید.';
 
     /**
      * Game thumbnail image
