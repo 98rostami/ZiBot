@@ -289,3 +289,31 @@ msgstr ""
 #: GameCore.php:326
 msgid "Unhandled error!"
 msgstr ""
+
+#: Entity/Game/Checkers.php:40
+msgid "Checkers"
+msgstr ""
+
+#: Entity/Game/Checkers.php:47
+msgid "(no flying kings, men cannot capture backwards)"
+msgstr ""
+
+#: Entity/Game/Checkers.php:54
+msgid "Checkers is game in which the goal is to capture the other player\'s checkers or make them impossible to move."
+msgstr ""
+
+#: Entity/Game/Connectfour.php:38
+msgid "Connect Four"
+msgstr ""
+
+#: Entity/Game/Connectfour.php:45
+msgid "Connect Four is a connection game in which the players take turns dropping colored discs from the top into a seven-column, six-row vertically suspended grid."
+msgstr ""
+
+#: Entity/Game/Tictactoe.php:38
+msgid "Tic-Tac-Toe"
+msgstr ""
+
+#: Entity/Game/Tictactoe.php:45
+msgid "Tic-tac-toe is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid."
+msgstr ""
