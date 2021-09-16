@@ -290,3 +290,32 @@ msgstr "خطای ربات!"
 #: GameCore.php:326
 msgid "Unhandled error!"
 msgstr "خطای کنترل نشده!"
+
+#: Entity/Game/Checkers.php:40
+msgid "Checkers"
+msgstr "چکرز"
+
+#: Entity/Game/Checkers.php:47
+msgid "(no flying kings, men cannot capture backwards)"
+msgstr "(بدون پرواز شاه و بدون حرکت به عقب سرباز)"
+
+#: Entity/Game/Checkers.php:54
+msgid "Checkers is game in which the goal is to capture the other player\'s checkers or make them impossible to move."
+msgstr "هدف بازی این است که مهره بازیکن حریف را بگیرید یا حرکت آنها را غیرممکن کنید."
+
+#: Entity/Game/Connectfour.php:38
+msgid "Connect Four"
+msgstr "دوز چهار تایی"
+
+#: Entity/Game/Connectfour.php:45
+msgid "Connect Four is a connection game in which the players take turns dropping colored discs from the top into a seven-column, six-row vertically suspended grid."
+msgstr "مهره ها را از ستون ها پایین بیاندازید و یک دنباله چهارتایی به صورت عمودی ، افقی یا مورب بسازید تا برنده شوید."
+
+#: Entity/Game/Tictactoe.php:38
+msgid "Tic-Tac-Toe"
+msgstr "دوز سه تایی"
+
+#: Entity/Game/Tictactoe.php:45
+msgid "Tic-tac-toe is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid."
+msgstr "یک دنباله سه تایی به صورت افقی ، عمودی یا مورب در خانه های دلخواه بسازید تا برنده شوید."
+
