@@ -32,7 +32,7 @@ class Language
      *
      * @var string
      */
-    private static $current_language = '';
+    private static $current_language = 'fa';
 
     /**
      * Return language list
