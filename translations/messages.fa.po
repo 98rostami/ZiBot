@@ -45,7 +45,7 @@ msgstr "سلام!"
 #: Command/User/HelpCommand.php:59 Command/User/HelpCommand.php:70
 #: Entity/Game.php:571 Entity/Game.php:800 Entity/Game.php:878
 msgid "Play"
-msgstr "بازی کردن"
+msgstr "شروع"
 
 #: Command/User/HelpCommand.php:59
 msgid "To begin, start a message with {USAGE} in any of your chats or click the {BUTTON} button and then select a chat to play in."
@@ -192,7 +192,7 @@ msgstr "شما قبلاً رای داده اید!"
 #: Entity/Game/Checkers.php:557 Entity/Game/Poolcheckers.php:197
 #: Entity/Game/Poolcheckers.php:220 Entity/Game/Poolcheckers.php:271
 msgid "You must make a jump when possible!"
-msgstr "شما باید زمانی جهش کنید که ممکن باشد!"
+msgstr "شما باید جهش کنید زمانی که امکانش باشد!"
 
 #: Entity/Game/Checkers.php:561 Entity/Game/Checkers.php:571
 #: Entity/Game/Connectfour.php:149 Entity/Game/Connectfour.php:154
